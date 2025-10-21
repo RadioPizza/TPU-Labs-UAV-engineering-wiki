@@ -1,3 +1,8 @@
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 # База знаний по проектированию БВС
 
 Добро пожаловать в общую базу знаний учебной группы 1А22 по дисциплине "Проектирование деталей и узлов мехатронных систем". Здесь мы собираем всю информацию, необходимую для успешного проектирования и постройки мультироторного коптера.

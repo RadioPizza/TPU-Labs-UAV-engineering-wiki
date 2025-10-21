@@ -6,7 +6,7 @@
 
 1.  **Клонируйте репозиторий** себе на компьютер:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/RadioPizza/TPU-Labs-UAV-engineering-wiki.git
     ```
 2.  **Откройте папку репозитория в Obsidian**. Это будет ваша **Vault** (хранилище).
 3.  **Внимательно прочитайте** [[Шпаргалка по git]] и [[Шпаргалка по markdown для Obsidian]].
